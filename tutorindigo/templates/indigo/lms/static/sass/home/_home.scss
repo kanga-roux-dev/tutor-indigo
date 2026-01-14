@@ -26,6 +26,10 @@ section.home {
                 font-weight: 500;
                 display: block;
             }
+            // Hide Register button
+            .register-btn {
+                display: none;
+            }
         }
     }
 }
